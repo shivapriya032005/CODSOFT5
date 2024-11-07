@@ -1,0 +1,19 @@
+# Project: To-Do List
+
+## Description
+The ToDo List is a task management application that allows users to add, view, mark as complete, and delete tasks. It's designed to help users stay organized and track their daily tasks.
+
+## Features
+- Add tasks
+- Mark tasks as completed
+- Delete tasks
+- View the list of all tasks
+
+## Technologies
+- Python (Tkinter for GUI)
+
+## How to Run
+1. Clone or download the repository.
+2. Navigate to the project directory.
+3. Run the script:
+   - `python todo_list.py`
