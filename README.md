@@ -17,3 +17,7 @@ The ToDo List is a task management application that allows users to add, view, m
 2. Navigate to the project directory.
 3. Run the script:
    - `python todo_list.py`
+
+## Author
+**Lalitha Shivapriya Sriramoju**  
+If you have any questions, feel free to reach out at shivapriya032005@gmail.com .
